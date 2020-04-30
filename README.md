@@ -1,5 +1,5 @@
-# react-components
-List of react components for my reference
+# react components and hooks
+List of react components and hooks for my reference
 
 ## Date Picker
 - [Date Picker](https://reactdatepicker.com/)
