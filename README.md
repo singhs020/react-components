@@ -12,4 +12,5 @@ List of react components for my reference
 
 ## Login
 - [React-Google-Login](https://www.npmjs.com/package/react-google-login)
+- [React-Facebook-Login](https://www.npmjs.com/package/react-facebook-login)
 
