@@ -14,3 +14,6 @@ List of react components and hooks for my reference
 - [React-Google-Login](https://www.npmjs.com/package/react-google-login)
 - [React-Facebook-Login](https://www.npmjs.com/package/react-facebook-login)
 
+## Modal & Toast
+- [react-hooks-use-modal](https://github.com/shibe97/react-hooks-use-modal)
+
