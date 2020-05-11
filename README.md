@@ -16,4 +16,5 @@ List of react components and hooks for my reference
 
 ## Modal & Toast
 - [react-hooks-use-modal](https://github.com/shibe97/react-hooks-use-modal)
+- [cogo-toast](https://www.npmjs.com/package/cogo-toast)
 
