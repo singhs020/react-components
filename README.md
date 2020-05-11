@@ -18,3 +18,5 @@ List of react components and hooks for my reference
 - [react-hooks-use-modal](https://github.com/shibe97/react-hooks-use-modal)
 - [cogo-toast](https://www.npmjs.com/package/cogo-toast)
 
+## Social Share
+- [react-share](https://www.npmjs.com/package/react-share)
