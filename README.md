@@ -23,3 +23,6 @@ List of react components and hooks for my reference
 
 ## Animation
 - [react-motion](https://github.com/chenglou/react-motion)
+- [react-tweenful](https://github.com/teodosii/react-tweenful)
+- [framer-motion](https://github.com/framer/motion)
+- [react-awesome-reveal](https://github.com/dennismorello/react-awesome-reveal)
