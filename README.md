@@ -20,3 +20,6 @@ List of react components and hooks for my reference
 
 ## Social Share
 - [react-share](https://www.npmjs.com/package/react-share)
+
+## Animation
+- [react-motion](https://github.com/chenglou/react-motion)
