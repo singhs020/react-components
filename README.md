@@ -17,6 +17,7 @@ List of react components and hooks for my reference
 ## Modal & Toast
 - [react-hooks-use-modal](https://github.com/shibe97/react-hooks-use-modal)
 - [cogo-toast](https://www.npmjs.com/package/cogo-toast)
+- [React-Toastify](https://fkhadra.github.io/react-toastify/introduction/)
 
 ## Social Share
 - [react-share](https://www.npmjs.com/package/react-share)
@@ -26,3 +27,19 @@ List of react components and hooks for my reference
 - [react-tweenful](https://github.com/teodosii/react-tweenful)
 - [framer-motion](https://github.com/framer/motion)
 - [react-awesome-reveal](https://github.com/dennismorello/react-awesome-reveal)
+
+## State Management
+ - [Redux]()
+ - [Recoil]()
+ 
+## Router
+ - [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
+ 
+## Page Componenets
+ - [React Select](https://react-select.com/home)
+ - [React Virtualized](https://bvaughn.github.io/react-virtualized) - List, Grid, Masonary & Table
+ - [React DnD](https://react-dnd.github.io/react-dnd/about) - Drag n Drop
+ 
+## Charts
+ - [React-Chartjs](http://jerairrest.github.io/react-chartjs-2/) - chartjs in react
+ 
