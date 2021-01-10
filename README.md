@@ -46,3 +46,6 @@ List of react components and hooks for my reference
 ## Tooltip & Popover
  - [popper.js](https://popper.js.org/react-popper/v2/hook/#react-hook)
  
+ ## Auth
+ - [next-auth](https://next-auth.js.org/)
+ 
