@@ -43,6 +43,7 @@ List of react components and hooks for my reference
 ## Charts
  - [React-Chartjs](http://jerairrest.github.io/react-chartjs-2/) - chartjs in react
  - [React Goofle Charts](https://react-google-charts.com/)
+ - [Frappe-Gannt](https://frappe.io/)
  
 ## Tooltip & Popover
  - [popper.js](https://popper.js.org/react-popper/v2/hook/#react-hook)
