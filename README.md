@@ -50,4 +50,7 @@ List of react components and hooks for my reference
  
  ## Auth
  - [next-auth](https://next-auth.js.org/)
+
+## User Engagement
+ - [react-rewards](https://github.com/thedevelobear/react-rewards)
  
